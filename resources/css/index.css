@@ -1,0 +1,44 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url(../images/tiles.jpeg);
+}
+
+header h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+p {
+    display: inline;
+}
+
+.blueP {
+    color: blue;
+    font-weight: bold;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+ h1 {
+    color: white;
+ }
+.brushes h1 {
+    color: white;
+    background-color: mediumspringgreen;
+    font-size: 32px;
+}
+
+.frames h1 {
+    background-color: lightcoral;
+}
+
+.paint h1 {
+    background-color: skyblue;
+}
